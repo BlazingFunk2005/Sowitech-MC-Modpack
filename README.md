@@ -13,14 +13,14 @@ Sowitech is not a linear modpack but rather what you would call a "Kitchen Sink"
 
 ## Main Mods
 
-Create
-Immersive Engineering
-Psi
-Hexcasting
-Tetra
-Hordes
-Grimoire's of Gaia
-Progressive Difficulty
+* Create
+* Immersive Engineering
+* Psi
+* Hexcasting
+* Tetra
+* Hordes
+* Grimoire's of Gaia
+* Progressive Difficulty
 
 ---
 
