@@ -1,0 +1,13 @@
+name = "FuelCanister"
+filename = "FuelCanister-1.20.1-1.7.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "89de1980fe80d295622d0b73c719294c7b9b8fd8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4594553
+project-id = 250899

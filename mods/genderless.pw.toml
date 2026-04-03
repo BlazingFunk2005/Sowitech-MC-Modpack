@@ -1,0 +1,13 @@
+name = "Create: Genderless"
+filename = "creategenderless-1.1.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "561ac9b6babab9ac8714ff79135a9368abd8a176"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7426790
+project-id = 1268890

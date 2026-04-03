@@ -1,0 +1,13 @@
+name = "Tetra Loopback"
+filename = "tetra_loopback-1.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "ee3ce68296e328b4cbd1f6d80da26bc3c1336235"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7560442
+project-id = 1248218

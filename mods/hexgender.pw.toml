@@ -1,0 +1,13 @@
+name = "HexGender"
+filename = "hexgender-forge-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c2eebefb275527c78b88a19acbccd22a20f0b5ca"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6220033
+project-id = 1205655

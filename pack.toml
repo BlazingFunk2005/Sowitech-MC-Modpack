@@ -1,0 +1,13 @@
+name = "Sowitech"
+author = "YukiTheFunkiest"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4b82a5cc46e216a9ac7ceb8a3dab16777a91c9ae7843739a383039cd6bfd5122"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"
